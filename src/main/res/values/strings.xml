@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ContactsSQLite</string>
+    <string name="contacts">Contacts</string>
+    <string name="developerInfo">By Cameron Pilarski</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="using_sqlite">Using SQLite</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="edit">edit</string>
+    <string name="back">back</string>
+    <string name="make_changes">Make Changes</string>
+    <string name="do_you_really_want_to_delete_this_contact">Are you sure you really want to delete this contact?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="would_you_like_to_edit_this_contact">Would you like to edit this contact?</string>
+    <string name="name">Name</string>
+    <string name="would_you_like_to_delete_this_contact">Would you like to delete this contact?</string>
+    <string name="no_contacts">No Contacts</string>
+</resources>
